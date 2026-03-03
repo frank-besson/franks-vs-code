@@ -1,0 +1,26 @@
+{
+	"name": "franks-vs-code-themes",
+	"displayName": "Frank's VS Code Themes",
+	"description": "Personal VS Code color themes collection",
+	"version": "0.1.0",
+	"engines": {
+		"vscode": "^1.20.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Frank's Tomorrow Night Minimal",
+				"uiTheme": "vs-dark",
+				"path": "./themes/tomorrow-night-minimal.json"
+			},
+			{
+				"label": "Frank's Tomorrow Midnight Minimal",
+				"uiTheme": "vs-dark",
+				"path": "./themes/tomorrow-midnight-minimal.json"
+			}
+		]
+	}
+}
