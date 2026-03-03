@@ -20,6 +20,11 @@
 				"label": "Frank's Tomorrow Midnight Minimal",
 				"uiTheme": "vs-dark",
 				"path": "./themes/tomorrow-midnight-minimal.json"
+			},
+			{
+				"label": "Frank's Gruvbox Dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/gruvbox-dark.json"
 			}
 		]
 	}
